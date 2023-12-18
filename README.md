@@ -6,8 +6,8 @@ This is a very small JPA example with one entity.
 - Spring Data JPA
 - H2 Database
 - PostgreSQL Driver
-- 
-  **src/main**
+
+**src/main**
 
 - The main application uses a PostgreSQL database on AWS
 - The schema is created automatically in this example based on JPA annotations
